@@ -1,0 +1,5 @@
+body{font-family: 'Akaya Kanadaka', cursive;font-size: 25px}
+table{width:90%;margin-left: 50px; margin-right: 50x;}
+table td{text-align: center;padding: 40px}
+table th{color: white;padding: 15px;position: sticky;top: 0px;background-color: black}
+table tr:nth-child(2n+1){background: #bdc3c7}
